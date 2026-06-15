@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.2
 
 require (
-	github.com/velonetics/lura/v2 v2.11.0
+	github.com/velonetics/lura/v2 v2.0.0
 	github.com/mmcdole/gofeed v1.1.3
 )
 
