@@ -7,7 +7,7 @@ Enable RSS encoding in the [Lura](github.com/pucora/lura) framework
 
 ## Documentation
 
-For more details, check the auto-generated documentation: https://godoc.org/github.com/pucora/velonetics-rss
+For more details, check the auto-generated documentation: https://godoc.org/github.com/pucora/pucora-rss
 
 ## Using it
 
@@ -25,8 +25,8 @@ Go 1.8 is a requirement
 
 Running it as a common executable, logs are send to the stdOut and some options are available at the CLI
 
-	$ ./velonetics_rss_example
-	Usage of ./velonetics_rss_example:
+	$ ./pucora_rss_example
+	Usage of ./pucora_rss_example:
 	  -c string
 	    	Path to the configuration filename (default "/etc/pucora/configuration.json")
 	  -d	Enable the debug

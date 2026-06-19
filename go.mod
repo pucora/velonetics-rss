@@ -1,4 +1,4 @@
-module github.com/pucora/velonetics-rss/v2
+module github.com/pucora/pucora-rss/v2
 
 go 1.23.0
 
