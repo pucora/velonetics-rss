@@ -1,13 +1,13 @@
-Velonetics RSS
+Pucora RSS
 ====
 
-Enable RSS encoding in the [Lura](github.com/velonetics/lura) framework
+Enable RSS encoding in the [Lura](github.com/pucora/lura) framework
 
-**Notice: this package requires Velonetics >= 0.4**
+**Notice: this package requires Pucora >= 0.4**
 
 ## Documentation
 
-For more details, check the auto-generated documentation: https://godoc.org/github.com/velonetics/velonetics-rss
+For more details, check the auto-generated documentation: https://godoc.org/github.com/pucora/velonetics-rss
 
 ## Using it
 
@@ -28,7 +28,7 @@ Running it as a common executable, logs are send to the stdOut and some options 
 	$ ./velonetics_rss_example
 	Usage of ./velonetics_rss_example:
 	  -c string
-	    	Path to the configuration filename (default "/etc/velonetics/configuration.json")
+	    	Path to the configuration filename (default "/etc/pucora/configuration.json")
 	  -d	Enable the debug
 	  -p int
 	    	Port of the service
